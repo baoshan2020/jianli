@@ -44,8 +44,8 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="35px">个人项目
 
-- **项目一**：[www](https:\\baoshan2020.github.io)
-- **项目二：**[mkdocs](http:\\it.tusenergy.com)
+- **项目一**：[www](https://baoshan2020.github.io/)
+- **项目二：**[mkdocs](http://it.tusenergy.com)
 
 ## <img src="assets/tools-solid.svg" width="30px"> 职场技能
 
